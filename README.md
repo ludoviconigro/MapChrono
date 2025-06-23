@@ -1,8 +1,5 @@
 # MapChrono
 
-**Visualizzatore interattivo per la cronologia degli spostamenti esportata da Google Maps (iOS)**  
-_Progetto sviluppato nell'ambito della tesi magistrale in Informatica Forense._
-
 ## 📌 Descrizione
 
 MapChrono è uno strumento di analisi e visualizzazione dei dati di localizzazione generati da dispositivi iOS tramite l'app Google Maps. A partire dal file `location-history.json` esportato localmente dall’app (post-Giugno 2024), il software consente di:
